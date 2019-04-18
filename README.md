@@ -1,2 +1,3 @@
 # training
 practice
+qwertyuiasdfghjklxcvbnm,
